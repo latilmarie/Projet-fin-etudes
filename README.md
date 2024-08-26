@@ -1,4 +1,7 @@
 # Projet de fin d'études - Master thesis
 
-This repository contain all the programs developed during the internship.
-All the processing to create Nancy dataset, all the model architectures, the training in deep learning and the graphs produces for the report.
+This repository contains all the programs developed during the internship.
+- The processing to create Nancy dataset,
+- The model architectures,
+- The training in deep learning,
+- The graphs produced for the report
